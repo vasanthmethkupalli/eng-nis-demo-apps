@@ -1,11 +1,6 @@
 # eng-nis-demo-app
-
-[![npm][npm]][npm-url]
-[![node][node]][node-url]
-[![deps][deps]][deps-url]
 [![test][test]][test-url]
 [![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
 
 <div align="center">
   <a href='https://github.com/karma-runner/karma'>
