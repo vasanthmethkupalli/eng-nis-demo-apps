@@ -41,3 +41,9 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+[test]: http://img.shields.io/travis/webpack-contrib/karma-webpack.svg
+[test-url]: https://travis-ci.org/webpack-contrib/karma-webpack
+
+[cover]: https://codecov.io/gh/webpack-contrib/karma-webpack/branch/master/graph/badge.svg
+[cover-url]: https://codecov.io/gh/webpack-contrib/karma-webpack
